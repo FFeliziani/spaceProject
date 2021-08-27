@@ -1,0 +1,11 @@
+class Constants:
+    CLUSTER_MIN = 1
+    CLUSTER_MAX = 10
+    GALAXY_MIN = 1
+    GALAXY_MAX = 10
+    SECTOR_MIN = 1
+    SECTOR_MAX = 10
+    SYSTEM_MIN = 5
+    SYSTEM_MAX = 25
+    PLANETARY_BODY_MIN = 0
+    PLANETARY_BODY_MAX = 14
